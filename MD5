@@ -1,0 +1,9 @@
+2a405e0b5aea2224c110442c5e25c322 *DESCRIPTION
+4c7f2bee787b59b6b0491a39e8439bad *LICENSE
+229514e18ae5f7e041011d6b3c7c8a22 *NAMESPACE
+90baa3972fe27d05ed899dc354e92c36 *R/css_inline.R
+fe60774158aeddc3293f47ce9590f50b *inst/dist/bundle.js
+61633dfd7765ebdda0a2d7455cc72845 *man/css_inline.Rd
+2e7356cc92d0f204e6a363f7483a78fd *man/figures/logo.png
+aea0cdc2bc08636725947ada750cf56e *tests/testthat.R
+2891786e4f4ee15d5bdbbe0f050e870a *tests/testthat/test-css_inline.R
